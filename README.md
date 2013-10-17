@@ -1,6 +1,6 @@
 ActiveMQ-Demo
 
-Shows setting up Active MQ
+This is a demo project that shows setting up an Active MQ
 Sample abstracted from http://briansjavablog.blogspot.com/2012/09/spring-jms-tutorial-with-activemq.html
 
 For this to work, you need to have ActiveMQ installed and setup with two Queues 
